@@ -1,0 +1,13 @@
+När använder man add respektive commit?
+- Man använder add för att flytta ändring i working directory till staging area.
+- Man använder commit för att bekräfta ändringar från staging area till repository.
+
+Vad är pull respektive push?
+- Pull hämat och push skickar.
+
+När använder man log respektive status?
+- Man använder log för att se historik över sina commits.
+- Man använder status för att se om man har något som inte lagts i staging area ännu.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+- Man ska hålla sig kort och till saken. Man förklarar vad man har gjort för ändringar.
